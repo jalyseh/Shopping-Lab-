@@ -13,7 +13,7 @@ public class CheckoutCounter {
 
         Clothing jacket = new Clothing("Ripped Demin Jacket",59.99,'L');
         shoppingBag[0] = jacket;
-        Customer customer = new Customer("Lebronnnnn James", shoppingBag,'L');
+        Customer customer = new Customer("Lebron", shoppingBag,'L');
 
         Clothing hoodie = new Clothing("Green Vintage Hoodie",19.99,'s');
         employeeBag[0] = hoodie;
